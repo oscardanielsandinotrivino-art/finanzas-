@@ -1,0 +1,5 @@
+MIS FINANZAS (app instalable)
+1) Sube TODA esta carpeta a un hosting gratis con https (Netlify Drop, GitHub Pages, Cloudflare Pages).
+2) En el iPhone abre la direccion en Safari > Compartir > Anadir a pantalla de inicio.
+3) Abrela desde el icono: se vera a pantalla completa y funcionara sin internet.
+Para pasar datos de la version anterior: Copia de seguridad (alli) y Restaurar (aqui).
